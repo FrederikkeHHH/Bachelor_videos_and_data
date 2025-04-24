@@ -1,3 +1,4 @@
+x-koor, y-koor, q1 (servo vinkel beregnet), q2 (dc vinkel beregnet), q1 (actual servo vinkel), q2 (actual dc vinkel) 
 -90.00, 10.00, 309.85, -153.68, -181.46, 230.40
 -27.00, -150.00, -32.18, -91.77, -95.66, -15.94
 -90.00, 10.00, 309.85, -153.68, -181.46, 225.26
